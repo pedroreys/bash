@@ -1,5 +1,3 @@
-source `brew --prefix`/etc/bash_completion
-
 source $HOME/.bash/scripts/exports.sh
 source $HOME/.bash/scripts/options.sh
 
